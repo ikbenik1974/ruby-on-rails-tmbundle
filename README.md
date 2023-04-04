@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Update neural-magic.md (#7347)
