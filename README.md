@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+Use pathlib in DOTA ops (#7552)
