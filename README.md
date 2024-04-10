@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
